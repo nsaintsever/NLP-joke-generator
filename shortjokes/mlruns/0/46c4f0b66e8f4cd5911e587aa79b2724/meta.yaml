@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/n_ss/Desktop/joke-try/mlruns/0/46c4f0b66e8f4cd5911e587aa79b2724/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46c4f0b66e8f4cd5911e587aa79b2724
+run_name: capable-auk-759
+run_uuid: 46c4f0b66e8f4cd5911e587aa79b2724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698246437297
+status: 1
+tags: []
+user_id: n_ss

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/n_ss/Desktop/dadjokes/mlruns/0/9ba6566bd9024300ad19e234f3a63016/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ba6566bd9024300ad19e234f3a63016
+run_name: capable-auk-759
+run_uuid: 9ba6566bd9024300ad19e234f3a63016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698267020959
+status: 1
+tags: []
+user_id: n_ss

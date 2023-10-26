@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/n_ss/Desktop/joke-try/mlruns/0/119f7af7b7994ff48481dfa643004b76/artifacts
+end_time: 1698246426636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 119f7af7b7994ff48481dfa643004b76
+run_name: ./quotes_model
+run_uuid: 119f7af7b7994ff48481dfa643004b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698241556941
+status: 3
+tags: []
+user_id: n_ss
