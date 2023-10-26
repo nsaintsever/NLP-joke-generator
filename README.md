@@ -12,5 +12,5 @@ Then, there are two notebooks both doing the same task.
  - In **the shortjokes subfolder** Similarly to our previous model, I have trained a GPT2 model on the dadjokes dataset. Unfortunately, this dataset contains a lot of racist and sexist jokes as it is simply scrapped from reddit. For computational reasons, I chose to only train it for two epochs. It gives quite good results even if with a longer training, we could have improved it.
 
  *Results*
- ![Result Joke Completion](images/shortjokes.png)
+ ![Result Joke Generation](images/shortjokes-results.png)
 <br/>
